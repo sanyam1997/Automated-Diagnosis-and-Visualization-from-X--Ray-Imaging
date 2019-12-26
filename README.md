@@ -3,4 +3,4 @@ The purpose of this study is to investigate the performance of various deep lear
 ![Attention Model Architecture](/Architecture.png?raw=true "Attention Model Architecture")
 ![Attention Model Architecture](/GradCam.png?raw=true "Gradient Camera Model Architecture")
 ![Attention Model Architecture](/Heatmap.png?raw=true "Heatmap")
-![Attention Model Architecture](/Final overlay.png?raw=true "Final overlay")
+![Attention Model Architecture](/Finaloverlay.png?raw=true "Final overlay")
